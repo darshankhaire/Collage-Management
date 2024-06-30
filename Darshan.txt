@@ -1,0 +1,10 @@
+
+Remote Repository Address 
+git remote add origin https://github.com/darshankhaire/Collage-Management.git
+Step 1)Create Empty Repository 
+git init
+1) Git Introduction
+git config --global User.name-darshankhaire
+
+git config --global User.Email-darshankhaire@gmail.com
+
